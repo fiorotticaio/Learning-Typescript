@@ -1,0 +1,5 @@
+- Transformar arquivos ts em js:
+    tsc arquivo.ts
+
+- Transformar arquivos ts em js automaticamente:
+    tsc arquivo.ts -w
